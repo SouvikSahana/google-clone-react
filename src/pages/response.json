@@ -1,0 +1,2270 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - elon musk",
+        "totalResults": "419000000",
+        "searchTerms": "elon musk",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "4daf6a44027297f36"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - elon musk",
+        "totalResults": "419000000",
+        "searchTerms": "elon musk",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "4daf6a44027297f36"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.631921,
+    "formattedSearchTime": "0.63",
+    "totalResults": "419000000",
+    "formattedTotalResults": "419,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Elon Musk (@elonmusk) / Twitter",
+      "htmlTitle": "\u003cb\u003eElon Musk\u003c/b\u003e (@\u003cb\u003eelonmusk\u003c/b\u003e) / Twitter",
+      "link": "https://twitter.com/elonmusk",
+      "displayLink": "twitter.com",
+      "snippet": "'s 25th cargo resupply mission will lift off from Launch Complex 39A. Weather officials continue to predict a 70% chance of favorable weather conditions.",
+      "htmlSnippet": "&#39;s 25th cargo resupply mission will lift off from Launch Complex 39A. Weather officials continue to predict a 70% chance of favorable weather conditions.",
+      "cacheId": "QjQEmo2sFzcJ",
+      "formattedUrl": "https://twitter.com/elonmusk",
+      "htmlFormattedUrl": "https://twitter.com/\u003cb\u003eelonmusk\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYXQV4fr8_XLWqr0WdYziKxcR2wPYbYFC-s94dEWV3m-8MMYBOvTQ6",
+            "width": "48",
+            "height": "48"
+          }
+        ],
+        "imageobject": [
+          {
+            "contenturl": "https://pbs.twimg.com/media/FXkz_ZfXoAQQGNU.jpg",
+            "width": "2000",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FXkz_ZfXoAQQGNU?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FXKNIunXoAYG5Hd.jpg",
+            "width": "1536",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FXKNIunXoAYG5Hd?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FXKNIupXgAEwXGV.jpg",
+            "width": "1536",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FXKNIupXgAEwXGV?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FXjlC-lXgAEfHYs.jpg",
+            "width": "1284",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FXjlC-lXgAEfHYs?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FXaeuRaX0AYEQJj.jpg",
+            "width": "970",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FXaeuRaX0AYEQJj?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FXW5SQMWAAAy43J.jpg",
+            "width": "935",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FXW5SQMWAAAy43J?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FXW4J4xXgAAXFKs.jpg",
+            "width": "453",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FXW4J4xXgAAXFKs?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FXFjw4jUYAA_hkd.jpg",
+            "width": "1920",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FXFjw4jUYAA_hkd?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FXFjw4gVUAAY6DI.jpg",
+            "width": "1920",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FXFjw4gVUAAY6DI?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FW2TMXOWAAAHgpQ.jpg",
+            "width": "1536",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FW2TMXOWAAAHgpQ?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FW2SV1OXoAED-Iu.jpg",
+            "width": "896",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FW2SV1OXoAED-Iu?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FWoEPVtWAAADyzl.jpg",
+            "width": "2048",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FWoEPVtWAAADyzl?format=jpg&name=thumb"
+          }
+        ],
+        "person": [
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "16580226",
+            "givenname": "NASA's Kennedy Space Center",
+            "disambiguatingdescription": "verified",
+            "additionalname": "NASAKennedy"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "13298072",
+            "givenname": "Tesla",
+            "disambiguatingdescription": "verified",
+            "additionalname": "Tesla"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "34743251",
+            "givenname": "SpaceX",
+            "disambiguatingdescription": "verified",
+            "additionalname": "SpaceX"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "34743251",
+            "givenname": "SpaceX",
+            "disambiguatingdescription": "verified",
+            "additionalname": "SpaceX"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "34743251",
+            "givenname": "SpaceX",
+            "disambiguatingdescription": "verified",
+            "additionalname": "SpaceX"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          },
+          {
+            "identifier": "44196397",
+            "givenname": "Elon Musk",
+            "disambiguatingdescription": "verified",
+            "additionalname": "elonmusk"
+          }
+        ],
+        "interactioncounter": [
+          {
+            "userinteractioncount": "12741",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/NASAKennedy/status/1547325404599435264/likes"
+          },
+          {
+            "userinteractioncount": "1382",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/NASAKennedy/status/1547325404599435264/retweets"
+          },
+          {
+            "userinteractioncount": "76",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/NASAKennedy/status/1547325404599435264/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "690",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/NASAKennedy/status/1547325404599435264"
+          },
+          {
+            "userinteractioncount": "86286",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1547250280667828224/likes"
+          },
+          {
+            "userinteractioncount": "3736",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1547250280667828224/retweets"
+          },
+          {
+            "userinteractioncount": "230",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1547250280667828224/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "3144",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1547250280667828224"
+          },
+          {
+            "userinteractioncount": "36888",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/Tesla/status/1547242854640230401/likes"
+          },
+          {
+            "userinteractioncount": "3861",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/Tesla/status/1547242854640230401/retweets"
+          },
+          {
+            "userinteractioncount": "405",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/Tesla/status/1547242854640230401/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1699",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/Tesla/status/1547242854640230401"
+          },
+          {
+            "userinteractioncount": "435820",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1547238325907513346/likes"
+          },
+          {
+            "userinteractioncount": "48450",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1547238325907513346/retweets"
+          },
+          {
+            "userinteractioncount": "4163",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1547238325907513346/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "15993",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1547238325907513346"
+          },
+          {
+            "userinteractioncount": "40299",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1547094594466332672/likes"
+          },
+          {
+            "userinteractioncount": "1778",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1547094594466332672/retweets"
+          },
+          {
+            "userinteractioncount": "136",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1547094594466332672/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1751",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1547094594466332672"
+          },
+          {
+            "userinteractioncount": "105601",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1547093032301985794/likes"
+          },
+          {
+            "userinteractioncount": "6936",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1547093032301985794/retweets"
+          },
+          {
+            "userinteractioncount": "372",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1547093032301985794/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "4347",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1547093032301985794"
+          },
+          {
+            "userinteractioncount": "93627",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1547028854161788929/likes"
+          },
+          {
+            "userinteractioncount": "5257",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1547028854161788929/retweets"
+          },
+          {
+            "userinteractioncount": "351",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1547028854161788929/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "4140",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1547028854161788929"
+          },
+          {
+            "userinteractioncount": "217879",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1546980241494745100/likes"
+          },
+          {
+            "userinteractioncount": "13063",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1546980241494745100/retweets"
+          },
+          {
+            "userinteractioncount": "1414",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1546980241494745100/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "12081",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1546980241494745100"
+          },
+          {
+            "userinteractioncount": "78485",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1546666417759653888/likes"
+          },
+          {
+            "userinteractioncount": "5122",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1546666417759653888/retweets"
+          },
+          {
+            "userinteractioncount": "547",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1546666417759653888/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "6429",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1546666417759653888"
+          },
+          {
+            "userinteractioncount": "298782",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1546598042844991489/likes"
+          },
+          {
+            "userinteractioncount": "18726",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1546598042844991489/retweets"
+          },
+          {
+            "userinteractioncount": "2857",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1546598042844991489/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "14398",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1546598042844991489"
+          },
+          {
+            "userinteractioncount": "370068",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1546518224887496705/likes"
+          },
+          {
+            "userinteractioncount": "30823",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1546518224887496705/retweets"
+          },
+          {
+            "userinteractioncount": "4645",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1546518224887496705/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "23753",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1546518224887496705"
+          },
+          {
+            "userinteractioncount": "55382",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1546367753870770177/likes"
+          },
+          {
+            "userinteractioncount": "4863",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1546367753870770177/retweets"
+          },
+          {
+            "userinteractioncount": "394",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1546367753870770177/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "3779",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1546367753870770177"
+          },
+          {
+            "userinteractioncount": "187028",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1546361634347749376/likes"
+          },
+          {
+            "userinteractioncount": "8441",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1546361634347749376/retweets"
+          },
+          {
+            "userinteractioncount": "641",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1546361634347749376/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "5022",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1546361634347749376"
+          },
+          {
+            "userinteractioncount": "366153",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1546345773348147201/likes"
+          },
+          {
+            "userinteractioncount": "27122",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1546345773348147201/retweets"
+          },
+          {
+            "userinteractioncount": "3175",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1546345773348147201/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "10992",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1546345773348147201"
+          },
+          {
+            "userinteractioncount": "1127426",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1546344529460174849/likes"
+          },
+          {
+            "userinteractioncount": "131984",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1546344529460174849/retweets"
+          },
+          {
+            "userinteractioncount": "16782",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1546344529460174849/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "38417",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1546344529460174849"
+          },
+          {
+            "userinteractioncount": "140536",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1545166492408328193/likes"
+          },
+          {
+            "userinteractioncount": "8775",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1545166492408328193/retweets"
+          },
+          {
+            "userinteractioncount": "1026",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1545166492408328193/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "13269",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1545166492408328193"
+          },
+          {
+            "userinteractioncount": "103933",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1545150462214623232/likes"
+          },
+          {
+            "userinteractioncount": "8242",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1545150462214623232/retweets"
+          },
+          {
+            "userinteractioncount": "621",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1545150462214623232/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "6238",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1545150462214623232"
+          },
+          {
+            "userinteractioncount": "47053",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/SpaceX/status/1545126999219286017/likes"
+          },
+          {
+            "userinteractioncount": "4855",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/SpaceX/status/1545126999219286017/retweets"
+          },
+          {
+            "userinteractioncount": "323",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/SpaceX/status/1545126999219286017/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "2053",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/SpaceX/status/1545126999219286017"
+          },
+          {
+            "userinteractioncount": "122301",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1545051509020192768/likes"
+          },
+          {
+            "userinteractioncount": "6801",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1545051509020192768/retweets"
+          },
+          {
+            "userinteractioncount": "1338",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1545051509020192768/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "15831",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1545051509020192768"
+          },
+          {
+            "userinteractioncount": "267526",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1545049944796516357/likes"
+          },
+          {
+            "userinteractioncount": "17716",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1545049944796516357/retweets"
+          },
+          {
+            "userinteractioncount": "3711",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1545049944796516357/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "20885",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1545049944796516357"
+          },
+          {
+            "userinteractioncount": "309453",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1545049435654172675/likes"
+          },
+          {
+            "userinteractioncount": "18573",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1545049435654172675/retweets"
+          },
+          {
+            "userinteractioncount": "5497",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1545049435654172675/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "38992",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1545049435654172675"
+          },
+          {
+            "userinteractioncount": "78881",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1545047278976524294/likes"
+          },
+          {
+            "userinteractioncount": "3840",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1545047278976524294/retweets"
+          },
+          {
+            "userinteractioncount": "297",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1545047278976524294/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "4101",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1545047278976524294"
+          },
+          {
+            "userinteractioncount": "273295",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1545046146548019201/likes"
+          },
+          {
+            "userinteractioncount": "26158",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1545046146548019201/retweets"
+          },
+          {
+            "userinteractioncount": "17176",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1545046146548019201/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "40532",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1545046146548019201"
+          },
+          {
+            "userinteractioncount": "37511",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/SpaceX/status/1545032918413692928/likes"
+          },
+          {
+            "userinteractioncount": "4014",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/SpaceX/status/1545032918413692928/retweets"
+          },
+          {
+            "userinteractioncount": "238",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/SpaceX/status/1545032918413692928/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1422",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/SpaceX/status/1545032918413692928"
+          },
+          {
+            "userinteractioncount": "17073",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/SpaceX/status/1545031530812043265/likes"
+          },
+          {
+            "userinteractioncount": "2205",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/SpaceX/status/1545031530812043265/retweets"
+          },
+          {
+            "userinteractioncount": "104",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/SpaceX/status/1545031530812043265/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "801",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/SpaceX/status/1545031530812043265"
+          },
+          {
+            "userinteractioncount": "37488",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1544790652969533441/likes"
+          },
+          {
+            "userinteractioncount": "4008",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1544790652969533441/retweets"
+          },
+          {
+            "userinteractioncount": "398",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1544790652969533441/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "4189",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1544790652969533441"
+          },
+          {
+            "userinteractioncount": "146082",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1544721101238018048/likes"
+          },
+          {
+            "userinteractioncount": "7346",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1544721101238018048/retweets"
+          },
+          {
+            "userinteractioncount": "1405",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1544721101238018048/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "9607",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1544721101238018048"
+          },
+          {
+            "userinteractioncount": "144461",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1544720926020968453/likes"
+          },
+          {
+            "userinteractioncount": "9586",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1544720926020968453/retweets"
+          },
+          {
+            "userinteractioncount": "1102",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1544720926020968453/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "5548",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1544720926020968453"
+          },
+          {
+            "userinteractioncount": "594208",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1544636989647032321/likes"
+          },
+          {
+            "userinteractioncount": "48727",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1544636989647032321/retweets"
+          },
+          {
+            "userinteractioncount": "13656",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1544636989647032321/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "58779",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1544636989647032321"
+          },
+          {
+            "userinteractioncount": "104136",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1544615634453020673/likes"
+          },
+          {
+            "userinteractioncount": "6217",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1544615634453020673/retweets"
+          },
+          {
+            "userinteractioncount": "836",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1544615634453020673/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "8462",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1544615634453020673"
+          },
+          {
+            "userinteractioncount": "30674",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1544377493263720450/likes"
+          },
+          {
+            "userinteractioncount": "1450",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1544377493263720450/retweets"
+          },
+          {
+            "userinteractioncount": "251",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1544377493263720450/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "2664",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1544377493263720450"
+          },
+          {
+            "userinteractioncount": "28531",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1544377130590552064/likes"
+          },
+          {
+            "userinteractioncount": "1288",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1544377130590552064/retweets"
+          },
+          {
+            "userinteractioncount": "59",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1544377130590552064/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1478",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1544377130590552064"
+          },
+          {
+            "userinteractioncount": "57469",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1544376599134494729/likes"
+          },
+          {
+            "userinteractioncount": "3027",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1544376599134494729/retweets"
+          },
+          {
+            "userinteractioncount": "339",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1544376599134494729/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "4964",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1544376599134494729"
+          },
+          {
+            "userinteractioncount": "23720",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1544375148605853699/likes"
+          },
+          {
+            "userinteractioncount": "1187",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1544375148605853699/retweets"
+          },
+          {
+            "userinteractioncount": "179",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1544375148605853699/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "2282",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1544375148605853699"
+          },
+          {
+            "userinteractioncount": "96948",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1544374564255309826/likes"
+          },
+          {
+            "userinteractioncount": "4849",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1544374564255309826/retweets"
+          },
+          {
+            "userinteractioncount": "698",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1544374564255309826/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "7400",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1544374564255309826"
+          },
+          {
+            "userinteractioncount": "166168",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1544059562864640011/likes"
+          },
+          {
+            "userinteractioncount": "9033",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1544059562864640011/retweets"
+          },
+          {
+            "userinteractioncount": "1751",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1544059562864640011/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "15562",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1544059562864640011"
+          },
+          {
+            "userinteractioncount": "294845",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1544052094419832836/likes"
+          },
+          {
+            "userinteractioncount": "16905",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1544052094419832836/retweets"
+          },
+          {
+            "userinteractioncount": "1101",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1544052094419832836/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "12256",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1544052094419832836"
+          },
+          {
+            "userinteractioncount": "319184",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1544051155562598401/likes"
+          },
+          {
+            "userinteractioncount": "33739",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1544051155562598401/retweets"
+          },
+          {
+            "userinteractioncount": "2151",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1544051155562598401/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "10945",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1544051155562598401"
+          },
+          {
+            "userinteractioncount": "315419",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/elonmusk/status/1543050489050402816/likes"
+          },
+          {
+            "userinteractioncount": "19504",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/elonmusk/status/1543050489050402816/retweets"
+          },
+          {
+            "userinteractioncount": "7127",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/elonmusk/status/1543050489050402816/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "25437",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/elonmusk/status/1543050489050402816"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://pbs.twimg.com/profile_images/1529956155937759233/Nyn1HZWF_normal.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "profile",
+            "og:site_name": "Twitter",
+            "al:ios:app_name": "Twitter",
+            "apple-mobile-web-app-title": "Twitter",
+            "og:title": "Elon Musk (@elonmusk) / Twitter",
+            "al:android:package": "com.twitter.android",
+            "al:ios:url": "twitter://user?screen_name=elonmusk",
+            "og:description": "Mars & Cars, Chips & Dips",
+            "al:ios:app_store_id": "333903271",
+            "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+            "al:android:url": "twitter://user?screen_name=elonmusk",
+            "fb:app_id": "2231777543",
+            "apple-mobile-web-app-status-bar-style": "white",
+            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://twitter.com/elonmusk",
+            "al:android:app_name": "Twitter"
+          }
+        ],
+        "videoobject": [
+          {
+            "duration": "PT0H0M3S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1547093032301985794",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1547092967034322944/pu/vid/720x1280/RKsV7tNwdFnrOfUE.mp4?tag=12",
+            "uploaddate": "2022-07-13T05:38:17.000Z",
+            "name": "@elonmusk's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1547092967034322944/pu/img/j4y8Cz-E9-BYqOY_.jpg"
+          },
+          {
+            "duration": "PT0H0M11S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1545126999219286017",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1545126726065197057/pu/vid/1280x720/v_Mi1uOJP-LAd8LF.mp4?tag=12",
+            "uploaddate": "2022-07-07T19:25:58.000Z",
+            "name": "@SpaceX's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1545126726065197057/pu/img/r5iI23nw3NEc8YBJ.jpg"
+          },
+          {
+            "duration": "PT0H0M27S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1545032918413692928",
+            "contenturl": "https://video.twimg.com/amplify_video/1545032859252969473/vid/1280x720/G-1L6D20Yq6L1yGF.mp4?tag=14",
+            "uploaddate": "2022-07-07T13:12:07.000Z",
+            "name": "@SpaceX's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1545032859252969473/img/mNFjgmASDEXKcy95.jpg"
+          }
+        ],
+        "collection": [
+          {
+            "name": "Profile Tweets"
+          }
+        ],
+        "creativework": [
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/1XQVlkaW6V"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/anGjQKbq5W"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/Len70RGCNf"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/mvVUR4doqB"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/d5tSnoDs5s"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/JcLMee61wj"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/EKhLrjLhlq"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/x5Lo6JrDmq"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/fQ3R4IVxZ8"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/LoJXYL2HTU"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/KYN2XO712Z"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/sUrsfucQ2F"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/sLZY8mAQtd"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://pbs.twimg.com/profile_images/1529956155937759233/Nyn1HZWF_normal.jpg"
+          }
+        ],
+        "socialmediaposting": [
+          {
+            "identifier": "1547492347998392320",
+            "position": "1",
+            "datecreated": "2022-07-14T08:05:01.000Z",
+            "datepublished": "2022-07-14T08:05:01.000Z"
+          },
+          {
+            "identifier": "1547325404599435264",
+            "commentcount": "690",
+            "articlebody": "Tomorrow at 8:44pm ET, @SpaceX's 25th cargo resupply mission will lift off from Launch Complex 39A. Weather officials continue to predict a 70% chance of favorable weather conditions. Join...",
+            "datecreated": "2022-07-13T21:01:39.000Z",
+            "datepublished": "2022-07-13T21:01:39.000Z",
+            "url": "https://twitter.com/NASAKennedy/status/1547325404599435264"
+          },
+          {
+            "identifier": "1547250280667828224",
+            "commentcount": "3144",
+            "articlebody": "Gives whole new meaning to Go Pros!",
+            "ispartof": "https://twitter.com/elonmusk/status/1547238325907513346",
+            "position": "2",
+            "datecreated": "2022-07-13T16:03:08.000Z",
+            "datepublished": "2022-07-13T16:03:08.000Z",
+            "url": "https://twitter.com/elonmusk/status/1547250280667828224"
+          },
+          {
+            "identifier": "1547246207881433088",
+            "position": "3",
+            "datecreated": "2022-07-13T15:46:57.000Z",
+            "datepublished": "2022-07-13T15:46:57.000Z"
+          },
+          {
+            "identifier": "1547242854640230401",
+            "commentcount": "1699",
+            "articlebody": "In Dog Mode, air conditioning will stay on while the car is locked, keeping your pets safe & comfortable",
+            "datecreated": "2022-07-13T15:33:37.000Z",
+            "isbasedon": "https://twitter.com/diannaisrad/status/1545452835638214659",
+            "datepublished": "2022-07-13T15:33:37.000Z",
+            "url": "https://twitter.com/Tesla/status/1547242854640230401"
+          },
+          {
+            "identifier": "1547238325907513346",
+            "commentcount": "15993",
+            "articlebody": "A+ for cinematography",
+            "position": "4",
+            "datecreated": "2022-07-13T15:15:37.000Z",
+            "datepublished": "2022-07-13T15:15:37.000Z",
+            "url": "https://twitter.com/elonmusk/status/1547238325907513346"
+          },
+          {
+            "identifier": "1547094594466332672",
+            "commentcount": "1751",
+            "articlebody": "Was just up in the booster propulsion section. Damage appears to be minor, but we need to inspect all the engines. Best to do this in the high bay.",
+            "ispartof": "https://twitter.com/elonmusk/status/1547093032301985794",
+            "position": "5",
+            "datecreated": "2022-07-13T05:44:29.000Z",
+            "datepublished": "2022-07-13T05:44:29.000Z",
+            "url": "https://twitter.com/elonmusk/status/1547094594466332672"
+          },
+          {
+            "identifier": "1547093032301985794",
+            "commentcount": "4347",
+            "articlebody": "Starship launch site tonight",
+            "position": "6",
+            "datecreated": "2022-07-13T05:38:17.000Z",
+            "datepublished": "2022-07-13T05:38:17.000Z",
+            "url": "https://twitter.com/elonmusk/status/1547093032301985794"
+          },
+          {
+            "identifier": "1547028854161788929",
+            "commentcount": "4140",
+            "articlebody": "Excited about @NASAWebb potential!",
+            "position": "7",
+            "datecreated": "2022-07-13T01:23:15.000Z",
+            "datepublished": "2022-07-13T01:23:15.000Z",
+            "url": "https://twitter.com/elonmusk/status/1547028854161788929"
+          },
+          {
+            "identifier": "1546980241494745100",
+            "commentcount": "12081",
+            "articlebody": "Oh the irony lol",
+            "position": "8",
+            "datecreated": "2022-07-12T22:10:05.000Z",
+            "datepublished": "2022-07-12T22:10:05.000Z",
+            "url": "https://twitter.com/elonmusk/status/1546980241494745100"
+          },
+          {
+            "identifier": "1546666417759653888",
+            "commentcount": "6429",
+            "articlebody": "Tesla’s automatic cabin overheat protection should make a real difference with record heatwaves. Ability to adjust activation temperature coming with next software release.",
+            "position": "9",
+            "datecreated": "2022-07-12T01:23:04.000Z",
+            "datepublished": "2022-07-12T01:23:04.000Z",
+            "url": "https://twitter.com/elonmusk/status/1546666417759653888"
+          },
+          {
+            "identifier": "1546598042844991489",
+            "commentcount": "14398",
+            "position": "10",
+            "datecreated": "2022-07-11T20:51:22.000Z",
+            "datepublished": "2022-07-11T20:51:22.000Z",
+            "url": "https://twitter.com/elonmusk/status/1546598042844991489"
+          },
+          {
+            "identifier": "1546518224887496705",
+            "commentcount": "23753",
+            "articlebody": "For improved quality of sleep, raise head of your bed by about 3” or 5cm and don’t eat 3 hours before bedtime",
+            "position": "11",
+            "datecreated": "2022-07-11T15:34:12.000Z",
+            "datepublished": "2022-07-11T15:34:12.000Z",
+            "url": "https://twitter.com/elonmusk/status/1546518224887496705"
+          },
+          {
+            "identifier": "1546367753870770177",
+            "commentcount": "3779",
+            "articlebody": "These polar launches will enable complete coverage of Earth (where approved by local government)",
+            "position": "12",
+            "datecreated": "2022-07-11T05:36:17.000Z",
+            "isbasedon": "https://twitter.com/SpaceX/status/1546307020399079424",
+            "datepublished": "2022-07-11T05:36:17.000Z",
+            "url": "https://twitter.com/elonmusk/status/1546367753870770177"
+          },
+          {
+            "identifier": "1546361634347749376",
+            "commentcount": "5022",
+            "articlebody": "Chuckmate",
+            "ispartof": "https://twitter.com/elonmusk/status/1546345773348147201",
+            "position": "13",
+            "datecreated": "2022-07-11T05:11:58.000Z",
+            "datepublished": "2022-07-11T05:11:58.000Z",
+            "url": "https://twitter.com/elonmusk/status/1546361634347749376"
+          },
+          {
+            "identifier": "1546345773348147201",
+            "commentcount": "10992",
+            "position": "14",
+            "datecreated": "2022-07-11T04:08:56.000Z",
+            "datepublished": "2022-07-11T04:08:56.000Z",
+            "url": "https://twitter.com/elonmusk/status/1546345773348147201"
+          },
+          {
+            "identifier": "1546344529460174849",
+            "commentcount": "38417",
+            "position": "15",
+            "datecreated": "2022-07-11T04:04:00.000Z",
+            "datepublished": "2022-07-11T04:04:00.000Z",
+            "url": "https://twitter.com/elonmusk/status/1546344529460174849"
+          },
+          {
+            "identifier": "1545166492408328193",
+            "commentcount": "13269",
+            "articlebody": "Super fired up for future product development with our awesome Tesla team! Such an honor to work with them.",
+            "position": "16",
+            "datecreated": "2022-07-07T22:02:54.000Z",
+            "datepublished": "2022-07-07T22:02:54.000Z",
+            "url": "https://twitter.com/elonmusk/status/1545166492408328193"
+          },
+          {
+            "identifier": "1545150462214623232",
+            "commentcount": "6238",
+            "articlebody": "Starlink for boats!",
+            "position": "17",
+            "datecreated": "2022-07-07T20:59:12.000Z",
+            "isbasedon": "https://twitter.com/SpaceX/status/1545126491364528128",
+            "datepublished": "2022-07-07T20:59:12.000Z",
+            "url": "https://twitter.com/elonmusk/status/1545150462214623232"
+          },
+          {
+            "identifier": "1545127971383640066",
+            "position": "18",
+            "datecreated": "2022-07-07T19:29:50.000Z",
+            "datepublished": "2022-07-07T19:29:50.000Z"
+          },
+          {
+            "identifier": "1545126999219286017",
+            "commentcount": "2053",
+            "articlebody": "In addition to withstanding extreme cold, heat, hail, sleet, heavy rain, and gale force winds, Starlink is rugged enough to withstand rocket landings. Here’s live video captured on a SpaceX...",
+            "datecreated": "2022-07-07T19:25:58.000Z",
+            "datepublished": "2022-07-07T19:25:58.000Z",
+            "url": "https://twitter.com/SpaceX/status/1545126999219286017"
+          },
+          {
+            "identifier": "1545051509020192768",
+            "commentcount": "15831",
+            "articlebody": "Maybe Tesla should make a highly configurable Robovan for people & cargo?",
+            "position": "19",
+            "datecreated": "2022-07-07T14:26:00.000Z",
+            "datepublished": "2022-07-07T14:26:00.000Z",
+            "url": "https://twitter.com/elonmusk/status/1545051509020192768"
+          },
+          {
+            "identifier": "1545049944796516357",
+            "commentcount": "20885",
+            "articlebody": "I hope you have big families and congrats to those who already do!",
+            "position": "20",
+            "datecreated": "2022-07-07T14:19:47.000Z",
+            "datepublished": "2022-07-07T14:19:47.000Z",
+            "url": "https://twitter.com/elonmusk/status/1545049944796516357"
+          },
+          {
+            "identifier": "1545049435654172675",
+            "commentcount": "38992",
+            "articlebody": "Population of Mars is still zero people!",
+            "position": "21",
+            "datecreated": "2022-07-07T14:17:45.000Z",
+            "datepublished": "2022-07-07T14:17:45.000Z",
+            "url": "https://twitter.com/elonmusk/status/1545049435654172675"
+          },
+          {
+            "identifier": "1545047278976524294",
+            "commentcount": "4101",
+            "articlebody": "Mark my words, they are sadly true",
+            "ispartof": "https://twitter.com/elonmusk/status/1545046146548019201",
+            "position": "22",
+            "datecreated": "2022-07-07T14:09:11.000Z",
+            "datepublished": "2022-07-07T14:09:11.000Z",
+            "url": "https://twitter.com/elonmusk/status/1545047278976524294"
+          },
+          {
+            "identifier": "1545046146548019201",
+            "commentcount": "40532",
+            "articlebody": "Doing my best to help the underpopulation crisis. A collapsing birth rate is the biggest danger civilization faces by far.",
+            "position": "23",
+            "datecreated": "2022-07-07T14:04:41.000Z",
+            "datepublished": "2022-07-07T14:04:41.000Z",
+            "url": "https://twitter.com/elonmusk/status/1545046146548019201"
+          },
+          {
+            "identifier": "1545038178876362760",
+            "position": "24",
+            "datecreated": "2022-07-07T13:33:01.000Z",
+            "datepublished": "2022-07-07T13:33:01.000Z"
+          },
+          {
+            "identifier": "1545032918413692928",
+            "commentcount": "1422",
+            "articlebody": "Liftoff!",
+            "datecreated": "2022-07-07T13:12:07.000Z",
+            "datepublished": "2022-07-07T13:12:07.000Z",
+            "url": "https://twitter.com/SpaceX/status/1545032918413692928"
+          },
+          {
+            "identifier": "1545037152286900224",
+            "position": "25",
+            "datecreated": "2022-07-07T13:28:57.000Z",
+            "datepublished": "2022-07-07T13:28:57.000Z"
+          },
+          {
+            "identifier": "1545031530812043265",
+            "commentcount": "801",
+            "articlebody": "Watch Falcon 9 launch 53 Starlink satellites to orbit → http://spacex.com/launches/sl4-21/…",
+            "datecreated": "2022-07-07T13:06:36.000Z",
+            "datepublished": "2022-07-07T13:06:36.000Z",
+            "url": "https://twitter.com/SpaceX/status/1545031530812043265"
+          },
+          {
+            "identifier": "1544790652969533441",
+            "commentcount": "4189",
+            "articlebody": "Highly recommend Revolutions by Mike Duncan, especially Season 10",
+            "position": "26",
+            "datecreated": "2022-07-06T21:09:27.000Z",
+            "datepublished": "2022-07-06T21:09:27.000Z",
+            "url": "https://twitter.com/elonmusk/status/1544790652969533441"
+          },
+          {
+            "identifier": "1544721101238018048",
+            "commentcount": "9607",
+            "articlebody": "Moon brought us together in ‘69, Mars can do that in the future",
+            "ispartof": "https://twitter.com/elonmusk/status/1544720926020968453",
+            "position": "27",
+            "datecreated": "2022-07-06T16:33:04.000Z",
+            "datepublished": "2022-07-06T16:33:04.000Z",
+            "url": "https://twitter.com/elonmusk/status/1544721101238018048"
+          },
+          {
+            "identifier": "1544720926020968453",
+            "commentcount": "5548",
+            "articlebody": "Without a common goal, humanity will fight itself",
+            "ispartof": "https://twitter.com/elonmusk/status/1544636989647032321",
+            "position": "28",
+            "datecreated": "2022-07-06T16:32:22.000Z",
+            "datepublished": "2022-07-06T16:32:22.000Z",
+            "url": "https://twitter.com/elonmusk/status/1544720926020968453"
+          },
+          {
+            "identifier": "1544636989647032321",
+            "commentcount": "58779",
+            "articlebody": "Humanity will reach Mars in your lifetime",
+            "position": "29",
+            "datecreated": "2022-07-06T10:58:50.000Z",
+            "datepublished": "2022-07-06T10:58:50.000Z",
+            "url": "https://twitter.com/elonmusk/status/1544636989647032321"
+          },
+          {
+            "identifier": "1544615634453020673",
+            "commentcount": "8462",
+            "articlebody": "Flatulence Earther",
+            "position": "30",
+            "datecreated": "2022-07-06T09:33:59.000Z",
+            "datepublished": "2022-07-06T09:33:59.000Z",
+            "url": "https://twitter.com/elonmusk/status/1544615634453020673"
+          },
+          {
+            "identifier": "1544377493263720450",
+            "commentcount": "2664",
+            "articlebody": "Sock Con, the conference for socks",
+            "ispartof": "https://twitter.com/elonmusk/status/1544377130590552064",
+            "position": "31",
+            "datecreated": "2022-07-05T17:47:42.000Z",
+            "datepublished": "2022-07-05T17:47:42.000Z",
+            "url": "https://twitter.com/elonmusk/status/1544377493263720450"
+          },
+          {
+            "identifier": "1544377130590552064",
+            "commentcount": "1478",
+            "articlebody": "Always something new for the magazine cover and the articles practically write themselves",
+            "ispartof": "https://twitter.com/elonmusk/status/1544376599134494729",
+            "position": "32",
+            "datecreated": "2022-07-05T17:46:15.000Z",
+            "datepublished": "2022-07-05T17:46:15.000Z",
+            "url": "https://twitter.com/elonmusk/status/1544377130590552064"
+          },
+          {
+            "identifier": "1544376599134494729",
+            "commentcount": "4964",
+            "articlebody": "A veritable “sock aficionado”",
+            "position": "33",
+            "datecreated": "2022-07-05T17:44:09.000Z",
+            "datepublished": "2022-07-05T17:44:09.000Z",
+            "url": "https://twitter.com/elonmusk/status/1544376599134494729"
+          },
+          {
+            "identifier": "1544375148605853699",
+            "commentcount": "2282",
+            "articlebody": "Sock tech is so advanced that you can get pretty much anything in sock form these days!",
+            "ispartof": "https://twitter.com/elonmusk/status/1544374564255309826",
+            "position": "34",
+            "datecreated": "2022-07-05T17:38:23.000Z",
+            "datepublished": "2022-07-05T17:38:23.000Z",
+            "url": "https://twitter.com/elonmusk/status/1544375148605853699"
+          },
+          {
+            "identifier": "1544374564255309826",
+            "commentcount": "7400",
+            "articlebody": "I must confess to a penchant for creative socks",
+            "position": "35",
+            "datecreated": "2022-07-05T17:36:03.000Z",
+            "datepublished": "2022-07-05T17:36:03.000Z",
+            "url": "https://twitter.com/elonmusk/status/1544374564255309826"
+          },
+          {
+            "identifier": "1544059562864640011",
+            "commentcount": "15562",
+            "articlebody": "Elvis is just Elvish without an h",
+            "position": "36",
+            "datecreated": "2022-07-04T20:44:21.000Z",
+            "datepublished": "2022-07-04T20:44:21.000Z",
+            "url": "https://twitter.com/elonmusk/status/1544059562864640011"
+          },
+          {
+            "identifier": "1544052094419832836",
+            "commentcount": "12256",
+            "articlebody": "Happy July 4th!",
+            "position": "37",
+            "datecreated": "2022-07-04T20:14:41.000Z",
+            "datepublished": "2022-07-04T20:14:41.000Z",
+            "url": "https://twitter.com/elonmusk/status/1544052094419832836"
+          },
+          {
+            "identifier": "1544051155562598401",
+            "commentcount": "10945",
+            "position": "38",
+            "datecreated": "2022-07-04T20:10:57.000Z",
+            "datepublished": "2022-07-04T20:10:57.000Z",
+            "url": "https://twitter.com/elonmusk/status/1544051155562598401"
+          },
+          {
+            "identifier": "1543050489050402816",
+            "commentcount": "25437",
+            "articlebody": "Honored to meet @Pontifex yesterday",
+            "position": "39",
+            "datecreated": "2022-07-02T01:54:39.000Z",
+            "datepublished": "2022-07-02T01:54:39.000Z",
+            "url": "https://twitter.com/elonmusk/status/1543050489050402816"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Elon Musk - Wikipedia",
+      "htmlTitle": "\u003cb\u003eElon Musk\u003c/b\u003e - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Elon_Musk",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Elon Reeve Musk FRS is a business magnate and investor. He is the founder, CEO, and Chief Engineer at SpaceX; angel investor, CEO, and Product Architect of ...",
+      "htmlSnippet": "\u003cb\u003eElon\u003c/b\u003e Reeve \u003cb\u003eMusk\u003c/b\u003e FRS is a business magnate and investor. He is the founder, CEO, and Chief Engineer at SpaceX; angel investor, CEO, and Product Architect of&nbsp;...",
+      "cacheId": "cElLiMk8T9MJ",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Elon_Musk",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eElon\u003c/b\u003e_\u003cb\u003eMusk\u003c/b\u003e",
+      "pagemap": {
+        "hcard": [
+          {
+            "bday": "1971-06-28",
+            "fn": "Elon Musk",
+            "nickname": "Elon Reeve Musk",
+            "title": "Founder, CEO, and Chief Engineer of SpaceXCEO and product architect of Tesla, Inc.Founder of The Boring Company and X.com (now part of PayPal)Co-founder of Neuralink, OpenAI, and Zip2President...",
+            "category": "United States[1]"
+          }
+        ],
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzOWESh6_Bmlvw-fNxRhmtW1ZFVXbLNeDnM4jKhXMG2ZA1Z4MJ8RWB9gg",
+            "width": "195",
+            "height": "258"
+          }
+        ],
+        "person": [
+          {
+            "role": "Founder, CEO, and Chief Engineer of SpaceXCEO and product architect of Tesla, Inc.Founder of The Boring Company and X.com (now part of PayPal)Co-founder of Neuralink, OpenAI, and Zip2President..."
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+            "theme-color": "#eaecf0",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "Elon Musk - Wikipedia",
+            "og:image:height": "1590",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Elon Musk | Tesla",
+      "htmlTitle": "\u003cb\u003eElon Musk\u003c/b\u003e | Tesla",
+      "link": "https://www.tesla.com/elon-musk",
+      "displayLink": "www.tesla.com",
+      "snippet": "Elon Musk co-founded and leads Tesla, SpaceX, Neuralink and The Boring Company.",
+      "htmlSnippet": "\u003cb\u003eElon Musk\u003c/b\u003e co-founded and leads Tesla, SpaceX, Neuralink and The Boring Company.",
+      "cacheId": "tq8vfrgZKs4J",
+      "formattedUrl": "https://www.tesla.com/elon-musk",
+      "htmlFormattedUrl": "https://www.tesla.com/\u003cb\u003eelon\u003c/b\u003e-\u003cb\u003emusk\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdjCFQpsQ1vg104PPzFGsM2G51GMNgtOvFJTtfgEB5DHdsfnD9JDdtRZY",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#cc0000",
+            "og:image": "https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Elon Musk",
+            "twitter:site:id": "13298072",
+            "og:image:url": "https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg",
+            "msapplication-tileimage": "/sites/all/themes/custom/tesla_theme/assets/img/icons/mstile-144x144.png?2",
+            "twitter:creator": "@teslamotors",
+            "og:image:secure_url": "https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg",
+            "twitter:image": "https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg",
+            "twitter:site": "@teslamotors",
+            "twitter:creator:id": "13298072",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Elon Musk co-founded and leads Tesla, SpaceX, Neuralink and The Boring Company."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Elon Musk",
+      "htmlTitle": "\u003cb\u003eElon Musk\u003c/b\u003e",
+      "link": "https://www.forbes.com/profile/elon-musk/",
+      "displayLink": "www.forbes.com",
+      "snippet": "Elon Musk cofounded six companies including electric car maker Tesla, rocket producer SpaceX and tunneling startup Boring Company.",
+      "htmlSnippet": "\u003cb\u003eElon Musk\u003c/b\u003e cofounded six companies including electric car maker Tesla, rocket producer SpaceX and tunneling startup Boring Company.",
+      "cacheId": "pQ8CiBj7EMAJ",
+      "formattedUrl": "https://www.forbes.com/profile/elon-musk/",
+      "htmlFormattedUrl": "https://www.forbes.com/profile/\u003cb\u003eelon\u003c/b\u003e-\u003cb\u003emusk\u003c/b\u003e/",
+      "pagemap": {
+        "metatags": [
+          {
+            "image": "https://imageio.forbes.com/specials-images/imageserve/5f47d4de7637290765bce495/0x0.jpg?format=jpg&crop=2146,2145,x1699,y559,safe&height=416&width=416&fit=bounds",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Elon Musk",
+            "og:site_name": "Forbes",
+            "og:title": "Elon Musk",
+            "og:image:type": "image/jpeg",
+            "og:description": "#1 Elon Musk on the 2022 Billionaires - Elon Musk cofounded six companies including electric car maker Tesla, rocket producer SpaceX and tunneling startup Boring Company.   He owns about 25% of Tesla between stock and options, but has pledged more than half his stock as collateral for loans.",
+            "twitter:image": "https://imageio.forbes.com/specials-images/imageserve/5f47d4de7637290765bce495/0x0.jpg?format=jpg&crop=2146,2145,x1699,y559,safe&height=416&width=416&fit=bounds",
+            "referrer": "origin-when-cross-origin",
+            "fb:app_id": "123694841080850",
+            "twitter:site": "@forbes",
+            "viewport": "width=device-width,initial-scale=1,maximum-scale=5,minimum-scale=1,user-scalable=yes",
+            "news_keywords": "Elon Musk",
+            "twitter:description": "#1 Elon Musk on the 2022 Billionaires - Elon Musk cofounded six companies including electric car maker Tesla, rocket producer SpaceX and tunneling startup Boring Company.   He owns about 25% of Tesla between stock and options, but has pledged more than half his stock as collateral for loans.",
+            "og:url": "https://www.forbes.com/nft-profile/elon-musk/"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tesla: Electric Cars, Solar & Clean Energy",
+      "htmlTitle": "Tesla: Electric Cars, Solar &amp; Clean Energy",
+      "link": "https://www.tesla.com/",
+      "displayLink": "www.tesla.com",
+      "snippet": "Tesla is accelerating the world's transition to sustainable energy with electric cars, solar and integrated renewable energy solutions for homes and ...",
+      "htmlSnippet": "Tesla is accelerating the world&#39;s transition to sustainable energy with electric cars, solar and integrated renewable energy solutions for homes and&nbsp;...",
+      "cacheId": "rHYp-0etoiEJ",
+      "formattedUrl": "https://www.tesla.com/",
+      "htmlFormattedUrl": "https://www.tesla.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDpsvXKwqinX5mGwD2fLhIhBqDReMNERwbQmGWiNc5U1kJy8lLZ1g9T8Jq",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#cc0000",
+            "og:image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/6139697c-9d6a-4579-837e-a9fc5df4a773/bvlatuR/std/1200x628/Model-3-Homepage-Social-LHD",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Electric Cars, Solar & Clean Energy | Tesla",
+            "theme-color": "#000000",
+            "og:site_name": "Tesla",
+            "og:image:url": "https://tesla-cdn.thron.com/delivery/public/image/tesla/6139697c-9d6a-4579-837e-a9fc5df4a773/bvlatuR/std/1200x628/Model-3-Homepage-Social-LHD",
+            "handheldfriendly": "true",
+            "twitter:url": "https://www.tesla.com/",
+            "image:alt_text": "Red Model 3",
+            "og:title": "Electric Cars, Solar & Clean Energy | Tesla",
+            "msapplication-tileimage": "/themes/custom/tesla_frontend/assets/favicons/mstile-144x144.png",
+            "og:description": "Tesla is accelerating the world's transition to sustainable energy with electric cars, solar and integrated renewable energy solutions for homes and businesses.",
+            "twitter:creator": "@tesla",
+            "og:image:secure_url": "https://tesla-cdn.thron.com/delivery/public/image/tesla/6139697c-9d6a-4579-837e-a9fc5df4a773/bvlatuR/std/1200x628/Model-3-Homepage-Social-LHD",
+            "twitter:image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/6139697c-9d6a-4579-837e-a9fc5df4a773/bvlatuR/std/1200x628/Model-3-Homepage-Social-LHD",
+            "twitter:site": "@tesla",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "viewport": "width=device-width, minimum-scale=1.0, initial-scale=1.0, shrink-to-fit=no, viewport-fit=cover",
+            "twitter:description": "Tesla is accelerating the world's transition to sustainable energy with electric cars, solar and integrated renewable energy solutions for homes and businesses.",
+            "apple-mobile-web-app-capable": "yes",
+            "mobileoptimized": "width",
+            "og:url": "https://www.tesla.com/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://tesla-cdn.thron.com/delivery/public/image/tesla/6139697c-9d6a-4579-837e-a9fc5df4a773/bvlatuR/std/1200x628/Model-3-Homepage-Social-LHD"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "SpaceX",
+      "htmlTitle": "SpaceX",
+      "link": "https://www.spacex.com/",
+      "displayLink": "www.spacex.com",
+      "snippet": "SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, ...",
+      "htmlSnippet": "SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology,&nbsp;...",
+      "cacheId": "fpZKzykc73AJ",
+      "formattedUrl": "https://www.spacex.com/",
+      "htmlFormattedUrl": "https://www.spacex.com/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://www.spacex.com/static/images/share.jpg",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "SpaceX",
+            "og:site_name": "SpaceX",
+            "og:title": "SpaceX",
+            "og:description": "SpaceX designs, manufactures and launches advanced rockets and spacecraft.",
+            "twitter:image": "https://www.spacex.com/static/images/share.jpg",
+            "twitter:site": "@spacex",
+            "viewport": "width=device-width, maximum-scale=1.0, user-scalable=1",
+            "twitter:description": "SpaceX designs, manufactures and launches advanced rockets and spacecraft.",
+            "og:locale": "en_US",
+            "og:url": "http://www.spacex.com"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.spacex.com/static/images/share.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "@elonmusk • Instagram photos and videos",
+      "htmlTitle": "@\u003cb\u003eelonmusk\u003c/b\u003e • Instagram photos and videos",
+      "link": "https://www.instagram.com/elonmusk/",
+      "displayLink": "www.instagram.com",
+      "snippet": "elonmusk · Tesla ASMR ✨ · Elon Musk is the father of eight-month-old twins born to a senior ·",
+      "htmlSnippet": "\u003cb\u003eelonmusk\u003c/b\u003e &middot; Tesla ASMR ✨ &middot; \u003cb\u003eElon Musk\u003c/b\u003e is the father of eight-month-old twins born to a senior &middot;",
+      "formattedUrl": "https://www.instagram.com/elonmusk/",
+      "htmlFormattedUrl": "https://www.instagram.com/\u003cb\u003eelonmusk\u003c/b\u003e/",
+      "pagemap": {
+        "xfn": [
+          {}
+        ],
+        "metatags": [
+          {
+            "og:image": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/289148374_3098004970419668_1435715121420117110_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=1&_nc_ohc=kq5aO9WZqCsAX9F7OgM&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT-HpreM3qBPjRTQXyJ3pSl2ToCSRk3rUiqio-QNWA3y_w&oe=62D6C9B1&_nc_sid=7bff83",
+            "theme-color": "#ffffff",
+            "og:type": "profile",
+            "al:ios:app_name": "Instagram",
+            "al:android:package": "com.instagram.android",
+            "al:ios:url": "instagram://user?username=elonmusk",
+            "og:description": "524k Followers, 2 Following, 484 Posts - See Instagram photos and videos from @elonmusk",
+            "al:ios:app_store_id": "389801252",
+            "al:android:url": "https://www.instagram.com/_u/elonmusk/",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.instagram.com/elonmusk/",
+            "al:android:app_name": "Instagram"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/289148374_3098004970419668_1435715121420117110_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=1&_nc_ohc=kq5aO9WZqCsAX9F7OgM&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT-HpreM3qBPjRTQXyJ3pSl2ToCSRk3rUiqio-QNWA3y_w&oe=62D6C9B1&_nc_sid=7bff83"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Elon Musk - CNBC",
+      "htmlTitle": "\u003cb\u003eElon Musk\u003c/b\u003e - CNBC",
+      "link": "https://www.cnbc.com/elon-musk/",
+      "displayLink": "www.cnbc.com",
+      "snippet": "Elon Musk, Tesla. ... Here are Twitter's biggest accusations against Musk in its lawsuit · Lauren Feiner10 Hours Ago. Elon Musk's career advice for young ...",
+      "htmlSnippet": "\u003cb\u003eElon Musk\u003c/b\u003e, Tesla. ... Here are Twitter&#39;s biggest accusations against Musk in its lawsuit &middot; Lauren Feiner10 Hours Ago. \u003cb\u003eElon Musk&#39;s\u003c/b\u003e career advice for young&nbsp;...",
+      "cacheId": "cdvineuccqkJ",
+      "formattedUrl": "https://www.cnbc.com/elon-musk/",
+      "htmlFormattedUrl": "https://www.cnbc.com/\u003cb\u003eelon\u003c/b\u003e-\u003cb\u003emusk\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVwJTtfAYvyGLt9jkQw6Yv63V_iy2IB13TuXdGufA9y4NRDE18StS-XU",
+            "width": "150",
+            "height": "79"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804&w=1920&h=1080",
+            "apple-itunes-app": "app-id=398018310",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2018-06-20T13:49:13+0000",
+            "og:site_name": "CNBC",
+            "twitter:url": "https://www.cnbc.com/elon-musk/",
+            "tp:preferredformats": "M3U,MPEG4",
+            "og:description": "Elon Musk, Tesla",
+            "twitter:creator": "@CNBC",
+            "parsely-metadata": "{\"nodeid\":100987750,\"originalImage\":\"https://sc.cnbcfm.com/applications/cnbc.com/resources/img/editorial/2015/03/30/102546467-Most-Popular--Image-Placeholder-Large.jpg\"}",
+            "article:publisher": "https://www.facebook.com/cnbc",
+            "al:ios:app_store_id": "398018310",
+            "pagenodeid": "100987750",
+            "twitter:site": "@CNBC",
+            "article:modified_time": "2020-08-27T19:34:06+0000",
+            "news_keywords": "Elon Musk,business news",
+            "tp:preferredruntimes": "universal",
+            "tp:initialize": "false",
+            "assettype": "person",
+            "og:type": "website",
+            "twitter:title": "Elon Musk",
+            "al:ios:app_name": "CNBC Business News and Finance",
+            "og:title": "Elon Musk",
+            "twitter:image:src": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804&w=1920&h=1080",
+            "viewport": "initial-scale=1.0, width=device-width",
+            "twitter:description": "Elon Musk, Tesla",
+            "og:url": "https://www.cnbc.com/elon-musk/",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "webpage": [
+          {
+            "image": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804&w=1920&h=1080",
+            "contentrating": "NR",
+            "specialty": "Elon Musk",
+            "primaryimageofpage": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+            "datemodified": "2020-08-27T19:34:06+0000",
+            "inlanguage": "en-US",
+            "keywords": "Elon Musk,business news",
+            "lastreviewed": "2020-08-27T19:34:06+0000",
+            "sourceorganization": "CNBC",
+            "name": "Elon Musk - CNBC",
+            "description": "Elon Musk, Tesla",
+            "datecreated": "2018-06-20T13:49:13+0000"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804&w=1920&h=1080"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Twitter sues Elon Musk for backing out of their deal : NPR",
+      "htmlTitle": "Twitter sues \u003cb\u003eElon Musk\u003c/b\u003e for backing out of their deal : NPR",
+      "link": "https://www.npr.org/2022/07/12/1111032233/elon-musk-twitter-lawsuit-deal",
+      "displayLink": "www.npr.org",
+      "snippet": "2 days ago ... Twitter has sued Elon Musk to compel him to buy the social media company for $44 billion – a deal the world's richest person said last week ...",
+      "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e Twitter has sued \u003cb\u003eElon Musk\u003c/b\u003e to compel him to buy the social media company for $44 billion – a deal the world&#39;s richest person said last week&nbsp;...",
+      "formattedUrl": "https://www.npr.org/2022/07/12/.../elon-musk-twitter-lawsuit-deal",
+      "htmlFormattedUrl": "https://www.npr.org/2022/07/12/.../\u003cb\u003eelon\u003c/b\u003e-\u003cb\u003emusk\u003c/b\u003e-twitter-lawsuit-deal",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKeoLATjC1YE2Hf_xgqmKFilqxaAaaovgAX3eaxooFVj-sGV9B6Cj3kN0",
+            "width": "150",
+            "height": "84"
+          }
+        ],
+        "speakablespecification": [
+          {
+            "cssselector": "[data-is-speakable]"
+          }
+        ],
+        "metatags": [
+          {
+            "date": "2022-07-12",
+            "og:image": "https://media.npr.org/assets/img/2022/07/12/composites-1-_wide-4ff5cf58a35095c1d1f20f87125fe267b8c55e93.jpg?s=1400",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Twitter takes Elon Musk to court, accusing him of bad faith and hypocrisy",
+            "og:site_name": "NPR.org",
+            "twitter:domain": "npr.org",
+            "og:title": "Twitter takes Elon Musk to court, accusing him of bad faith and hypocrisy",
+            "rating": "General",
+            "og:description": "The social media company is asking a Delaware court to force the world's richest man to follow through on his agreement to buy it for $44 billion.",
+            "fb:pages": "10643211755",
+            "twitter:image:src": "https://media.npr.org/assets/img/2022/07/12/composites-1-_wide-4ff5cf58a35095c1d1f20f87125fe267b8c55e93.jpg?s=1400",
+            "fb:app_id": "138837436154588",
+            "twitter:site": "@NPR",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "article:content_tier": "free",
+            "og:url": "https://www.npr.org/2022/07/12/1111032233/elon-musk-twitter-lawsuit-deal",
+            "article:opinion": "false"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.npr.org/assets/img/2022/07/12/composites-1-_wide-4ff5cf58a35095c1d1f20f87125fe267b8c55e93.jpg?s=1400"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Elon Musk to Acquire Twitter",
+      "htmlTitle": "\u003cb\u003eElon Musk\u003c/b\u003e to Acquire Twitter",
+      "link": "https://www.prnewswire.com/news-releases/elon-musk-to-acquire-twitter-301532245.html",
+      "displayLink": "www.prnewswire.com",
+      "snippet": "Apr 25, 2022 ... ... Inc. (NYSE: TWTR) today announced that it has entered into a definitive agreement to be acquired by an entity wholly owned by Elon Musk, ...",
+      "htmlSnippet": "Apr 25, 2022 \u003cb\u003e...\u003c/b\u003e ... Inc. (NYSE: TWTR) today announced that it has entered into a definitive agreement to be acquired by an entity wholly owned by \u003cb\u003eElon Musk\u003c/b\u003e,&nbsp;...",
+      "cacheId": "VvD_ObSQQCkJ",
+      "formattedUrl": "https://www.prnewswire.com/.../elon-musk-to-acquire-twitter-301532245. html",
+      "htmlFormattedUrl": "https://www.prnewswire.com/.../\u003cb\u003eelon\u003c/b\u003e-\u003cb\u003emusk\u003c/b\u003e-to-acquire-twitter-301532245. html",
+      "pagemap": {
+        "metatags": [
+          {
+            "p:domain_verify": "7d052ac42aa9e7505635404745861994",
+            "date": "2022-04-25T14:50:00-04:00",
+            "asseturls": "newsmetaBean.getAssetUrls()",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Elon Musk to Acquire Twitter",
+            "og:type": "website",
+            "optanonhelper": "us-prod",
+            "geo.region": "California",
+            "msvalidate.01": "9D28F7743C790DD88F2D9C7375EF7ED5",
+            "author": "Twitter, Inc.",
+            "og:title": "Elon Musk to Acquire Twitter",
+            "adobelaunchscript": "//assets.adobedtm.com/launch-ENb957f6e7383d4549b191e1190ed5476e.min",
+            "og:description": "/PRNewswire/ -- Twitter, Inc. (NYSE: TWTR) today announced that it has entered into a definitive agreement to be acquired by an entity wholly owned by Elon...",
+            "referrer": "unsafe-url",
+            "naver-site-verification": "0aaad19c909a94c1b1cf1e782a10f0a6d8e14fc0",
+            "twitter:site": "@PRNewswire",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "/PRNewswire/ -- Twitter, Inc. (NYSE: TWTR) today announced that it has entered into a definitive agreement to be acquired by an entity wholly owned by Elon...",
+            "publisher": "PR Newswire",
+            "og:url": "https://www.prnewswire.com/news-releases/elon-musk-to-acquire-twitter-301532245.html",
+            "geo.placename": "SAN FRANCISCO, April 25, 2022"
+          }
+        ]
+      }
+    }
+  ]
+}
